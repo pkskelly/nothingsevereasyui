@@ -20,3 +20,5 @@ node_modules
 *.snk
 .nuget/NuGet.exe
 docs/build
+js/_output
+jshint.txt
